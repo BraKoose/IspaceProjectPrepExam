@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/btn_open.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/btn_open_pressed.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.1" />
         <entry key="app/src/main/res/layout/card_view_design.xml" value="0.5" />
       </map>
     </option>
