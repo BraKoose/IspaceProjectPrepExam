@@ -9,6 +9,6 @@ data class StudentsViewModel(val first_name: String,
                             val profession: String,
                             val phone_number: String,
                              val location: String,
-                            val image: String) {
+                            val image: Int) {
 
 }
