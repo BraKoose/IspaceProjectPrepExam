@@ -24,7 +24,12 @@ class MainActivity : AppCompatActivity() {
         // This loop will create 20 Views containing
         // the image with the count of view
         for (i in 1..20) {
-            data.add(StudentsViewModel(R.drawable.ic_baseline_folder_24, "Item " + i))
+            data.add(StudentsViewModel(R.drawable.ic_baseline_folder_24, "Item " + i, "Addai Amoako", "KooseTheBlogger@gmail.com",
+            "male",
+            "Google Asociate Android Developer",
+            "0509103721",
+            "Accra",
+            1))
         }
 
         // This will pass the ArrayList to our Adapter
