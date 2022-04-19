@@ -1,3 +1,3 @@
 package com.hgecapsi.newsapptestoneproject.models
 
-class StudentResponse : ArrayList<StudentResponseItem>()
+class StudentResponse : ArrayList<StudentItem>()

@@ -1,6 +1,6 @@
 package com.hgecapsi.newsapptestoneproject.models
 
-data class StudentResponseItem(
+data class StudentItem(
     val email: String,
     val first_name: String,
     val gender: String,
